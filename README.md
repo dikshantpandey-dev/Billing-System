@@ -19,3 +19,7 @@ This project is a prototype billing system for a fast food chain. It allows user
 
 ### 5. Input/Output
 - **Purpose:** To interact with the user, including reading user inputs from the console and displaying the output.
+
+## Flowchart
+
+![Flowchart](flowchart.svg)
