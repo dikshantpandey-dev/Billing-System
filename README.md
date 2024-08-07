@@ -14,7 +14,7 @@ This project is a prototype billing system for a fast food chain. It allows user
 ### 3. Loops
 - **Purpose:** To iterate through the items entered by the user to calculate the total price and to handle repeated prompts such as entering item prices.
 
-### 4. Arrays
+### 4. Arrays/Arraylist
 - **Purpose:** To store the prices of multiple items that the user inputs.
 
 ### 5. Input/Output
